@@ -7,16 +7,12 @@ redirect_from:
   - /resume
 ---
 
-You can also find my articles on my [Google Scholar profile](xxxxxx).
+You can also find my latest articles on my [[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=CvNah7sAAAAJ)].
 
-2024
+Publications
 ========
-- **Fang, L.**, Chen, Y., Zhong, W., Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), International Conference on Machine Learning (ICML).
-- Wang, Z., **Fang, L.**\*, Cai, J., Ma, P., Zhong, W. (2024) [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://drive.google.com/file/d/1ziOs1fgjxSvBtdeNdoaBwN_9Dvohy8kA/view?usp=sharing), Statistics in Biosciences. (\* Joint-First author)
-- Latif, E., **Fang, L.**, Ma, P., and Zhai, X. (2024) [Knowledge Distillation of LLMs for Automatic Scoring of Science Assessments](https://drive.google.com/file/d/1ntv10R8kJ216eBG8vQw2J7zGAsJd51rE/view?usp=sharing), International Conference on Artificial Intelligence in Education.
-- Wang, S., Wu, S., Chen, Y., **Fang, L.**, Xiao, L., Li, F. (2024) [Exploring Latent Constructs through Multimodal Data Analysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jedm.12412), Journal of Educational Measurement.
+- Tao Wang, Yanjun Yang, **Haoran Lu**, Jiaheng Cui, Ping Ma, Wenxuan Zhong, Yiping Zhao (2024). Functional Regression for SERS Spectrum Transformation Across Diverse Instruments. Analyst, accepted.
+- Ping Ma, Yongkai Chen, **Haoran Lu**, Wenxuan Zhong (2024). [Bisection Grover's Search Algorithm and Its Application in Analyzing CITE-seq Data(https://app.box.com/s/ok6j8dh33wwa5xo7kthkkultd08jlqln)]. Journal of American Statistical Association, 1–12.
+- Yufang Liu, Yongkai Chen, **Haoran Lu**, Wenxuan Zhong, Guocheng Yuan,  Ping Ma (2024). [Orthogonal multimodality integration and clustering in single-cell data(https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05773-y)]. BMC bioinformatics, 25(1), 164.
+- Shengji Jia, Chunming Zhang, **Haoran Lu** (2022). [Covariance function versus covariance matrix estimation in efficient semi-parametric regression for longitudinal data analysis(https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001767)]. Journal of Multivariate Analysis, 187, 104900.
 
-2023
-========
-- **Fang, L.**, Lee, GG., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365), ArXiv.
-- Wu, S., **Fang L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://par.nsf.gov/servlets/purl/10494748), IEEE Transactions on Smart Grid.
