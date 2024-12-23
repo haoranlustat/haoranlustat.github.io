@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-My name is Haoran Lu, and I am a PhD student in the Department of Statistics at the University of Georgia. I am currently working in the Big Data Analytics Lab, supervised by Professors [Ping Ma](https://bdalpingio.github.io/) and [Wenxuan Zhong](https://zhonglabuga.github.io/). I received my Master's degree in Statistics from the University of Wisconsin-Madison. I received my Bachelor's degree in Statistics from Nankai University. My research interests include causal inference, large language models, generative models, nonparametric statistics and bioinformatics.
+My name is Haoran Lu, and I am a PhD student in the Department of Statistics at the University of Georgia. I am currently working in the Big Data Analytics Lab, supervised by Professors [Ping Ma](https://bdalpingio.github.io/) and [Wenxuan Zhong](https://zhonglabuga.github.io/). I received my Master's degree in Statistics from the University of Wisconsin-Madison and my Bachelor's degree in Statistics from Nankai University. My research interests include causal inference, large language models, generative models, nonparametric statistics and bioinformatics.
 
 Contact Information
 ======
