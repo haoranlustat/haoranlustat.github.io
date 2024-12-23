@@ -11,13 +11,12 @@ redirect_from:
 
 Teaching Assistant
 -------
-- STAT 4365/6365 Modern Statistical Programming, Fall 2024
-- STAT 8530 Advanced Statistical Inference I, Spring 2023
-- STAT 4220 Applied Experimental Designs, Fall 2022
-- STAT 2000 Introductory Statistics, Summer 2022
-- STAT 6315 Statistical Methods Summer 2022
-- STAT 2000 Introductory Statistics, Spring 2022
-- STAT 6230 Applied Regression Analysis, Fall 2021
+- STAT 6290: Nonparametric Methods, Spring 2025
+- STAT 6230: Applied Regression Analysis, Spring 2025
+- STAT 8200: Design of Experiments for Research Workers, Fall 2024
+- STAT 1501: Introduction to Data Science, Fall 2024
+- STAT 4230/6230: Applied Regression Analysis, Summer 2024
+- STAT 351: Introduction to Nonparametric Statistics, Spring 2019
 
 
 
