@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here](xxxxxx).
+{%Please find my CV [here](xxxxxx). %}
 
