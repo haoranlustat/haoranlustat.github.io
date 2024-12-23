@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can also find my latest articles on my [[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=CvNah7sAAAAJ)].
+You can also find my latest articles on my [Google Scholar profile(https://scholar.google.com/citations?hl=en&user=CvNah7sAAAAJ)].
 
 Publications
 ========
