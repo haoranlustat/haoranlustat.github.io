@@ -19,5 +19,5 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 ***Preprints***
 
-Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, **Haoran Lu**, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai (2024). [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv.
+- Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, **Haoran Lu**, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai (2024). [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv.
 
