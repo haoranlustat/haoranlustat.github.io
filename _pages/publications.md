@@ -9,6 +9,7 @@ redirect_from:
 
 You can also find my latest articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=CvNah7sAAAAJ).
 
+
 ***Publications***
 
 - Tao Wang, Yanjun Yang, **Haoran Lu**, Jiaheng Cui, Ping Ma, Wenxuan Zhong, Yiping Zhao (2024). Functional Regression for SERS Spectrum Transformation Across Diverse Instruments. Analyst, accepted.
