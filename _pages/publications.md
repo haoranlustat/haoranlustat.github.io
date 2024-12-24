@@ -17,4 +17,4 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 - Shengji Jia, Chunming Zhang, **Haoran Lu** (2022). [Covariance function versus covariance matrix estimation in efficient semi-parametric regression for longitudinal data analysis](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001767). Journal of Multivariate Analysis, 187, 104900.
 
 
-***Preprints***
+
