@@ -17,5 +17,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 - Yufang Liu, Yongkai Chen, **Haoran Lu**, Wenxuan Zhong, Guocheng Yuan,  Ping Ma (2024). [Orthogonal multimodality integration and clustering in single-cell data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05773-y). BMC bioinformatics, 25(1), 164.
 - Shengji Jia, Chunming Zhang, **Haoran Lu** (2022). [Covariance function versus covariance matrix estimation in efficient semi-parametric regression for longitudinal data analysis](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21001767). Journal of Multivariate Analysis, 187, 104900.
 
+***Preprints***
 
+Ehsan Latif, Yifan Zhou, Shuchen Guo, Yizhu Gao, Lehong Shi, Matthew Nayaaba, Gyeonggeon Lee, Liang Zhang, Arne Bewersdorff, Luyang Fang, Xiantong Yang, Huaqin Zhao, Hanqi Jiang, **Haoran Lu**, Jiaxi Li, Jichao Yu, Weihang You, Zhengliang Liu, Vincent Shung Liu, Hui Wang, Zihao Wu, Jin Lu, Fei Dou, Ping Ma, Ninghao Liu, Tianming Liu, Xiaoming Zhai (2024). [A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education](https://arxiv.org/abs/2410.21287), arXiv.
 
