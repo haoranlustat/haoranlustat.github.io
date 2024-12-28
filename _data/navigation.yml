@@ -14,6 +14,9 @@ main:
   - title: "Presentations"
     url: /presentations/
 
+  - title: "Awards"
+    url: /awards/
+
   #- title: "Talks"
   #  url: /talks/    
 
@@ -26,8 +29,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
 
   
     
