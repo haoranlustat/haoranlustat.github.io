@@ -10,12 +10,14 @@ main:
     
   # - title: "Pub"
   #   url: /pub/
-
+  
+  - title: "Awards"
+    url: /awards/
+    
   - title: "Presentations"
     url: /presentations/
 
-  - title: "Awards"
-    url: /awards/
+
 
   
 
