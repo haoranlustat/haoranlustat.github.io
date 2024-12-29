@@ -11,8 +11,3 @@ redirect_from:
 
 
 
-
-
-
-{%  Please find my CV [here](xxxxxx). %}
-
