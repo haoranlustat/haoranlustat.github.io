@@ -17,6 +17,6 @@ Funds and Awards
 - Finalist, ASA Student Paper Award, Nonparametric Statistics Section, American Statistical Association, 2023
 - Honorable Mention, Student Employee of the Year, Big Data Analytics Lab, University of Georgia, 2023
 - ICSA Travel Fund, International Chinese Statistical Association, 2023
-- Poster Presentation Award (First Place), Georgia Statistics Day, Emory University, 2021
+- First Place, Poster Presentation Award, Georgia Statistics Day, Emory University, 2021
 - UGA Graduate School Research Assistant Fellowship, University of Georgia, 2021
 - Academic Excellence Award, University of Wisconsin-Madison, 2019
