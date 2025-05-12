@@ -11,6 +11,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 
 ***Published***
+- Yufang Liu, Yanjun Yang, **Haoran Lu**, Jiaheng Cui, Ping Ma, Wenxuan Zhong, Yiping Zhao (2025). Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification. ***ACS Sensors***, accepted.
 - Luyang Fang, Ehsan Latif, **Haoran Lu**, Yifan Zhou, Ping Ma, and Xiaoming Zhai (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774). ***AIED***, accepted.
 - **Haoran Lu**, Huimin Cheng, Ye Wang, Yaoguo Xie, Huan Yan, Xindong Wang, Ping Ma, Wenxuan Zhong (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). ***Journal of Data Science***, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Tao Wang, Yanjun Yang, **Haoran Lu**, Jiaheng Cui, Ping Ma, Wenxuan Zhong, Yiping Zhao (2025). [Functional Regression for SERS Spectrum Transformation Across Diverse Instruments](https://pubs.rsc.org/en/content/articlepdf/2025/an/d4an01177e). ***Analyst***, 150(3), 460-469. **(Cover Page)**
