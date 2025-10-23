@@ -22,7 +22,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 ***Preprints***
 
-- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), bioRxiv.
+- **Haoran Lu**, Luyang Fang, Orlando Zeng, Ping Ma, Wenxuan Zhong, Guo-Cheng Yuan (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), bioRxiv.
 
 
 - **Haoran Lu**, Luyang Fang, Ruidong Zhang, Xinliang Li, Jiazhang Cai, Huimin Cheng, Lin Tang, Ziyu Liu, Zeliang Sun, Tao Wang, Yingchuan Zhang, Arif Hassan Zidan, Jinwen Xu, Jincheng Yu, Meizhi Yu, Hanqi Jiang, Xilin Gong, Weidi Luo, Bolun Sun, Yongkai Chen, Terry Ma, Shushan Wu, Yifan Zhou, Junhao Chen, Haotian Xiang, Jing Zhang, Afrar Jahin, Wei Ruan, Ke Deng, Yi Pan, Peilong Wang, Jiahui Li, Zhengliang Liu, Lu Zhang, Xiaobo Li, Lin Zhao, Wei Liu, Dajiang Zhu, Xin Xing, Fei Dou, Wei Zhang, Chao Huang, Rongjie Liu, Mengrui Zhang, Yiwen Liu, Xiaoxiao Sun, Qin Lu, Zhen Xiang, Wenxuan Zhong, Tianming Liu, Ping Ma (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv: 2507.19672.
