@@ -24,6 +24,8 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 ***Preprints***
 
+- **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
+
 - **Haoran Lu**, Luyang Fang, Orlando Zeng, Ping Ma, Wenxuan Zhong, Guo-Cheng Yuan (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), bioRxiv.
 
 
