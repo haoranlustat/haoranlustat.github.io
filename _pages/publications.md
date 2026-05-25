@@ -16,13 +16,13 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 - **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments, ***Nucleic Acids Research***, accepted.
 - **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
 - Yanjun Yang, Yufang Liu, **Haoran Lu**, Jiaheng Cui, Les Jones, Jackelyn Murray, Ralph A. Tripp, Xianyan Chen, Wenxuan Zhong, Ping Ma, and others (2026). [AI-assisted extraction and quantification of viral RNA SERS spectra from DNA–RNA hybridization measurement](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13870/1387005/AI-assisted-extraction-and-quantification-of-viral-RNA-SERS-spectra/10.1117/12.3086055.full). ***Frontiers in Biological Detection: From Nanosensors to Systems XVIII***, Vol. 13870, pp. 10–18. SPIE.
-
+- Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, **Haoran Lu**, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/pdf/2504.14772), ***Artificial Intelligence Review***, 59(1), 17.
 
 2025
 ========
 
 
-- Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, **Haoran Lu**, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/pdf/2504.14772), ***Artificial Intelligence Review***, 59(1), 17.
+
 - **Haoran Lu**, Huimin Cheng, Ye Wang, Yaoguo Xie, Huan Yan, Xindong Wang, Ping Ma, Wenxuan Zhong (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). ***Journal of Data Science***, 1-14. (Special issue in honor of Professor Xizhi Wu)
 - Yufang Liu, Yanjun Yang, **Haoran Lu**, Jiaheng Cui, Ping Ma, Wenxuan Zhong, Yiping Zhao (2025). [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pmc.ncbi.nlm.nih.gov/articles/PMC12210261/). ***ACS Sensors***, 10 (6), 3941-3952.
 - Luyang Fang, Ehsan Latif, **Haoran Lu**, Yifan Zhou, Ping Ma, and Xiaoming Zhai (2025). [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774). ***The 26th International Conference on Artificial Intelligence in Education***.
