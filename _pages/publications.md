@@ -13,6 +13,8 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 2026
 ========
 
+- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), ***Nucleic Acids Research***, accepted.
+- 
 - **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
 
 - Yanjun Yang, Yufang Liu, **Haoran Lu**, Jiaheng Cui, Les Jones, Jackelyn Murray, Ralph A. Tripp, Xianyan Chen, Wenxuan Zhong, Ping Ma, and others (2026). [AI-assisted extraction and quantification of viral RNA SERS spectra from DNA–RNA hybridization measurement](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13870/1387005/AI-assisted-extraction-and-quantification-of-viral-RNA-SERS-spectra/10.1117/12.3086055.full). ***Frontiers in Biological Detection: From Nanosensors to Systems XVIII***, Vol. 13870, pp. 10–18. SPIE.
@@ -21,7 +23,6 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 2025
 ========
 
-- **Haoran Lu**, Luyang Fang, Orlando Zeng, Ping Ma, Wenxuan Zhong, Guo-Cheng Yuan (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), bioRxiv.
 
 - Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, **Haoran Lu**, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma (2026). [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/pdf/2504.14772), ***Artificial Intelligence Review***, 59(1), 17.
 - **Haoran Lu**, Huimin Cheng, Ye Wang, Yaoguo Xie, Huan Yan, Xindong Wang, Ping Ma, Wenxuan Zhong (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). ***Journal of Data Science***, 1-14. (Special issue in honor of Professor Xizhi Wu)
