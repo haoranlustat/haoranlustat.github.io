@@ -13,7 +13,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 2026
 ========
 
-- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), ***Nucleic Acids Research***, accepted.
+- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments, ***Nucleic Acids Research***, accepted.
 - 
 - **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
 
