@@ -12,7 +12,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 2026
 ========
-- Luyang Fang*, **Haoran Lu** *, Yongkai Chen, Wenxuan Zhong, Ping Ma (2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, ***Journal of Machine Learning Research***, in press. (* joint first author)
+- Luyang Fang, **Haoran Lu** \*, Yongkai Chen, Wenxuan Zhong, Ping Ma (2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, ***Journal of Machine Learning Research***, in press. (\* joint first author)
 - **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments, ***Nucleic Acids Research***, in press.
 - **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
 - Yanjun Yang, Yufang Liu, **Haoran Lu**, Jiaheng Cui, Les Jones, Jackelyn Murray, Ralph A. Tripp, Xianyan Chen, Wenxuan Zhong, Ping Ma, and others (2026). [AI-assisted extraction and quantification of viral RNA SERS spectra from DNA–RNA hybridization measurement](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13870/1387005/AI-assisted-extraction-and-quantification-of-viral-RNA-SERS-spectra/10.1117/12.3086055.full). ***Frontiers in Biological Detection: From Nanosensors to Systems XVIII***, Vol. 13870, pp. 10–18. SPIE.
