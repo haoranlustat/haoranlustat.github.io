@@ -12,7 +12,7 @@ You can also find my latest articles on my [Google Scholar profile](https://scho
 
 2026
 ========
-- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2025). Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments, ***Nucleic Acids Research***, in press.
+- **Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma (2026). Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments, ***Nucleic Acids Research***, in press.
 - Luyang Fang\*, **Haoran Lu**\*, Yongkai Chen, Wenxuan Zhong, Ping Ma (2026). Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation, ***Journal of Machine Learning Research***, in press. (\* joint first authors)
 - **Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), arxiv: 2605.16757.
 - Luyang Fang, Haoran Lu, Jiazhang Cai, Tao Wang, Huimin Cheng, Wenxuan Zhong, and Ping Ma (2026). A Statistical Perspective on Knowledge Distillation: Foundations, Classical Methods, and LLM Extensions. ***Annual Review of Statistics and Its Application***, in press.
