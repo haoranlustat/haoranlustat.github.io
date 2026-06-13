@@ -11,6 +11,7 @@ redirect_from:
 
 Invited Conference/Workshop Presentations
 -----
+- STAI-X, Boston, MA, 2026
 - STATGEN, Altlanta, GA, 2026
 - Joint Statistical Meetings, Portland, OR, 2024
 - Joint Statistical Meetings, Toronto, Canada, 2023
