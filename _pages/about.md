@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-My name is Haoran Lu, and I will be a Postdoctoral Associate in the Department of Statistics at Harvard University starting Sep. 2026. I received my PhD in Statistics from the University of Georgia, where I worked with Professors [Ping Ma](https://bdalpingio.github.io/) and [Wenxuan Zhong](https://zhonglabuga.github.io/). I received my Master's degree in Statistics from the University of Wisconsin-Madison and my Bachelor's degree in Statistics from Nankai University. My research interests include causal inference, large language models, generative models, nonparametric statistics and bioinformatics.
+My name is Haoran Lu, and I will be a Postdoctoral Fellow in the Department of Statistics at Harvard University, working with Professor [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou). I received my PhD in Statistics from the University of Georgia, where I worked with Professors [Ping Ma](https://bdalpingio.github.io/) and [Wenxuan Zhong](https://zhonglabuga.github.io/). I received my Master's degree in Statistics from the University of Wisconsin-Madison and my Bachelor's degree in Statistics from Nankai University. My research interests include causal inference, large language models, generative models, nonparametric statistics and bioinformatics.
 
 Research Interests
 ======
