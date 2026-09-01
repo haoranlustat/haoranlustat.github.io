@@ -20,8 +20,5 @@ Research Interests
 - AI for Physical Sciences and Signal Processing
 - Quantum Computing
 
-Contact Information
-======
-- Email: Haoran.Lu@uga.edu
-- Address: 310 Herty Drive, Department of Statistics, Athens, GA 30602
+
 
