@@ -11,7 +11,7 @@ redirect_from:
 
 Funds and Awards
 -----
-- Honorable Mention, STAI-X Conference, Boston, 2026
+- Paper Award Honorable Mention, STAI-X Conference, Boston, 2026
 - Excellent Poster  Presentation Award, AI in Medical and Health Care Systems Workshop, Atlanta, GA, 2026
 - Graduate School Travel Grant, University of Georgia, 2025
 - Joint ATD/AMPS Workshop Travel Support, National Science Foundation, 2024
