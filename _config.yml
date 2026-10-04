@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haoran Lu's Homepage"
+title                    : "Haoran Lu — Harvard University"
 title_separator          : "-"
 name                     : &name "Haoran Lu"
-description              : &description "personal description"
+description              : &description "Haoran Lu is a Postdoctoral Fellow in Statistics at Harvard University, researching large language models, agent systems, causal inference, and AI for science."
 url                      : "https://haoranlustat.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoranLuSTAT/HaoranLuSTAT.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Haoran Lu"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Athens, GA"
-  employer         : "University of Georgia"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "haoran.lu@uga.edu" 
+  email            : "haoranlu@fas.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -54,12 +54,12 @@ author:
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
+  keybase          : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : # Username
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
