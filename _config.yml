@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Haoran Lu"
+home_title               : "Haoran Lu - Harvard University"  # <title> of the homepage (shown in Google results)
 title_separator          : "-"
 name                     : &name "Haoran Lu"
 description              : &description "Haoran Lu is a Postdoctoral Fellow in Statistics at Harvard University, researching large language models, agent systems, causal inference, and AI for science."
