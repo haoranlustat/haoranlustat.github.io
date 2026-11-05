@@ -4,7 +4,7 @@
 - title: "Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments"
   authors: "**Haoran Lu**, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma"
   venue: "Nucleic Acids Research, 2026"
-  media: "gene-panel.svg"
+  media: "gene-panel.png"
   summary: "A principled framework for choosing compact gene panels that preserve spatial transcriptomics signal."
   links:
     - { label: "paper", url: "https://academic.oup.com/nar/article-abstract/doi/10.1093/nar/gkag621/8709438" }
@@ -12,7 +12,7 @@
 - title: "NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning"
   authors: "**Haoran Lu**, Luyang Fang, Wenxuan Zhong, Ping Ma"
   venue: "Statistics and Trustworthy AI for Cross-Domain Acceleration, 2026 (Paper Award Honorable Mention)"
-  media: "neuromas.svg"
+  media: "neuromas.png"
   summary: "Views a multi-agent LLM system as a neural network and trains it end-to-end with joint RL."
   links:
     - { label: "paper", url: "https://openreview.net/pdf?id=psCz7NClif" }

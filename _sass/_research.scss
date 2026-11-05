@@ -28,7 +28,7 @@
 
   &__media {
     flex: 0 0 38%;
-    img, video { width: 100%; display: block; border-radius: 8px; object-fit: cover; aspect-ratio: 16 / 10; }
+    img, video { width: 100%; display: block; border-radius: 8px; object-fit: contain; aspect-ratio: 16 / 10; background: #fff; }
   }
   &__body { flex: 1; font-size: 0.9em; line-height: 1.45; }
   &__title { font-weight: 700; font-size: 1.08em; color: #1a365d; margin-bottom: .3em; }
