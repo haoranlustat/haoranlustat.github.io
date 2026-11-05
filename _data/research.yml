@@ -20,7 +20,7 @@
 - title: "Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation"
   authors: "Luyang Fang*, **Haoran Lu***, Yongkai Chen, Wenxuan Zhong, Ping Ma"
   venue: "Journal of Machine Learning Research, 2026"
-  media: "knowledge-cascade.svg"
+  media: "knowledge-cascade.png"
   summary: "Distills knowledge from small to large models for nonparametric functional estimation."
   links:
     - { label: "paper", url: "http://jmlr.org/papers/v27/23-0359.html" }
@@ -28,7 +28,7 @@
 - title: "Bisection Grover's Search Algorithm and Its Application in Analyzing CITE-seq Data"
   authors: "Ping Ma, Yongkai Chen, **Haoran Lu**, Wenxuan Zhong"
   venue: "Journal of the American Statistical Association, 2024"
-  media: "grover.svg"
+  media: "grover.png"
   summary: "A quantum search algorithm adapted to large-scale CITE-seq analysis."
   links:
     - { label: "paper", url: "https://app.box.com/s/ok6j8dh33wwa5xo7kthkkultd08jlqln" }
