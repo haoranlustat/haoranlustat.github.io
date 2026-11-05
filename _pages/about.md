@@ -22,7 +22,7 @@ Research Interests
 
 {% include video-row.html %}
 
-Selected Research
+Research
 ======
 
 {% include research-cards.html %}
