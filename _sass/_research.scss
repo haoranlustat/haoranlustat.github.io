@@ -49,3 +49,6 @@
   display: flex; flex-wrap: wrap; gap: 1em; margin: 1em 0 1.5em;
   &__item { flex: 1 1 260px; iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 10px; } }
 }
+
+.author__urls { margin-top: 6px; }
+.page__content > h1:first-child { margin-top: 0; }

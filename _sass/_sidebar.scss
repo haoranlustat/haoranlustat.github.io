@@ -95,7 +95,7 @@
 
     @include breakpoint($large) {
       width: 100%;
-      max-width: 100%;
+      max-width: 150px;
       height: auto;
       padding: 0;
       border: none;
@@ -122,8 +122,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 22px;
+    margin-bottom: 14px;
   }
 }
 .sidebar .author__name {
