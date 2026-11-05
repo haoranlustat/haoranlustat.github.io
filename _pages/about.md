@@ -20,5 +20,11 @@ Research Interests
 - AI for Physical Sciences and Signal Processing
 - Quantum Computing
 
+{% include video-row.html %}
 
+Selected Research
+======
 
+{% include research-cards.html %}
+
+For the full list, see [Publications](/publication/).

@@ -1,0 +1,19 @@
+{% for p in site.data.research %}
+<div class="research-card">
+  <div class="research-card__media">
+    {% assign m = p.media | downcase %}
+    {% if m contains ".mp4" or m contains ".webm" %}
+      <video src="{{ '/images/research/' | append: p.media | relative_url }}" autoplay muted loop playsinline preload="metadata"></video>
+    {% else %}
+      <img src="{{ '/images/research/' | append: p.media | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+    {% endif %}
+  </div>
+  <div class="research-card__body">
+    <div class="research-card__title">{{ p.title }}</div>
+    <div class="research-card__authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+    <div class="research-card__venue">{{ p.venue }}</div>
+    {% if p.summary %}<div class="research-card__summary">{{ p.summary }}</div>{% endif %}
+    <div class="research-card__links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</div>
+  </div>
+</div>
+{% endfor %}

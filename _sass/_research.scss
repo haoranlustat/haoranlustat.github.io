@@ -1,0 +1,52 @@
+/* Homepage polish + research cards */
+.page__content h1, .page__content h2 {
+  letter-spacing: -0.01em;
+  border-bottom: none;
+}
+.page__content h1 {
+  font-size: 1.6em;
+  margin-top: 1.6em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #e8ecef;
+}
+.author__avatar img {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+.page__content a { text-decoration-color: rgba(0, 120, 140, 0.35); text-underline-offset: 2px; }
+
+.research-card {
+  display: flex;
+  gap: 1.5em;
+  align-items: center;
+  padding: 1.1em;
+  margin: 0 0 1.2em;
+  background: #fff;
+  border: 1px solid #e8ecef;
+  border-radius: 12px;
+  transition: box-shadow .2s ease, transform .2s ease;
+  &:hover { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08); transform: translateY(-2px); }
+
+  &__media {
+    flex: 0 0 38%;
+    img, video { width: 100%; display: block; border-radius: 8px; object-fit: cover; aspect-ratio: 16 / 10; }
+  }
+  &__body { flex: 1; font-size: 0.9em; line-height: 1.45; }
+  &__title { font-weight: 700; font-size: 1.08em; color: #1a365d; margin-bottom: .3em; }
+  &__authors { color: #4a5568; }
+  &__venue { font-style: italic; color: #718096; margin: .2em 0 .5em; }
+  &__summary { color: #2d3748; margin-bottom: .6em; }
+  &__links a {
+    display: inline-block; margin-right: .5em; padding: .1em .8em;
+    border: 1px solid #0b7285; border-radius: 999px; font-size: .85em;
+    text-decoration: none; color: #0b7285;
+    &:hover { background: #0b7285; color: #fff; }
+  }
+}
+@media (max-width: 640px) {
+  .research-card { flex-direction: column; align-items: stretch; &__media { flex-basis: auto; } }
+}
+
+.video-row {
+  display: flex; flex-wrap: wrap; gap: 1em; margin: 1em 0 1.5em;
+  &__item { flex: 1 1 260px; iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 10px; } }
+}

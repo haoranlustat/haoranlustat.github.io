@@ -1,0 +1,9 @@
+{% if site.data.videos and site.data.videos.size > 0 %}
+<div class="video-row">
+{% for v in site.data.videos %}
+  <div class="video-row__item">
+    <iframe src="https://www.youtube.com/embed/{{ v.youtube }}" title="{{ v.title | escape }}" loading="lazy" allowfullscreen></iframe>
+  </div>
+{% endfor %}
+</div>
+{% endif %}
