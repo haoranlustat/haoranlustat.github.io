@@ -5,7 +5,7 @@
     {% if m contains ".mp4" or m contains ".webm" %}
       <video src="{{ '/images/research/' | append: p.media | relative_url }}" autoplay muted loop playsinline preload="metadata"></video>
     {% else %}
-      <img src="{{ '/images/research/' | append: p.media | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+      <a href="{{ '/images/research/' | append: p.media | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/images/research/' | append: p.media | relative_url }}" alt="{{ p.title | escape }}" loading="lazy"></a>
     {% endif %}
   </div>
   <div class="research-card__body">

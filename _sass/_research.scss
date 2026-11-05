@@ -16,8 +16,9 @@
 
 .research-card {
   display: flex;
-  gap: 1.5em;
-  align-items: center;
+  flex-direction: column;
+  gap: 1em;
+  align-items: stretch;
   padding: 1.1em;
   margin: 0 0 1.2em;
   background: #fff;
@@ -27,8 +28,8 @@
   &:hover { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08); transform: translateY(-2px); }
 
   &__media {
-    flex: 0 0 38%;
-    img, video { width: 100%; display: block; border-radius: 8px; object-fit: contain; aspect-ratio: 16 / 10; background: #fff; }
+    flex: none;
+    img, video { width: 100%; display: block; border-radius: 8px; object-fit: contain; background: #fff; max-height: 420px; }
   }
   &__body { flex: 1; font-size: 0.9em; line-height: 1.45; }
   &__title { font-weight: 700; font-size: 1.08em; color: #1a365d; margin-bottom: .3em; }
@@ -42,9 +43,7 @@
     &:hover { background: #0b7285; color: #fff; }
   }
 }
-@media (max-width: 640px) {
-  .research-card { flex-direction: column; align-items: stretch; &__media { flex-basis: auto; } }
-}
+
 
 .video-row {
   display: flex; flex-wrap: wrap; gap: 1em; margin: 1em 0 1.5em;
