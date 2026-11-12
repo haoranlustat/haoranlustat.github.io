@@ -1,31 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% include seo.html %}
-  <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
-  <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+  {% include home/head.html %}
 </head>
 <body>
-<header class="nav">
-  <div class="nav__inner">
-    <a class="nav__brand" href="#top">{{ site.author.name }}</a>
-    <nav class="nav__links">
-      <a href="#news">News</a>
-      <a href="#research">Research</a>
-      <a href="#awards">Awards</a>
-      <a href="{{ '/publication/' | relative_url }}">Publications</a>
-      <a href="{{ '/presentations/' | relative_url }}">Talks</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      <button id="theme" class="nav__theme" aria-label="Toggle dark mode">◐</button>
-    </nav>
-  </div>
-</header>
+{% include home/nav.html %}
 
 <main id="top" class="wrap">
   <section class="hero">

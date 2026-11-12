@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% include home/head.html %}
+</head>
+<body>
+{% include home/nav.html %}
+<main class="wrap">
+  <section class="subpage">
+    <h1 class="subpage__title">{{ page.title }}</h1>
+    <div class="prose">{{ content }}</div>
+  </section>
+  <footer class="foot">© {{ site.time | date: "%Y" }} {{ site.author.name }}</footer>
+</main>
+<script src="{{ '/assets/js/home.js' | relative_url }}"></script>
+</body>
+</html>

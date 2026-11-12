@@ -55,3 +55,13 @@ a:hover{text-decoration:underline}
   .nav__links{gap:12px;font-size:12.5px}
   .nav__links a:nth-child(n+4){display:none}
 }
+
+.subpage{padding:48px 0 24px}
+.subpage__title{font:600 40px/1.15 'Playfair Display',serif;margin:0 0 28px}
+.prose h1,.prose h2{font:600 22px 'Playfair Display',serif;margin:34px 0 12px;padding-top:22px;border-top:1px solid var(--border)}
+.prose h1:first-child,.prose h2:first-child{border-top:none;padding-top:0;margin-top:0}
+.prose p{margin:0 0 14px}
+.prose ul{list-style:none;margin:0;padding:0}
+.prose li{padding:9px 0;border-bottom:1px dashed var(--border)}
+.prose li:last-child{border-bottom:none}
+.prose a{word-break:break-word}
