@@ -1,0 +1,7 @@
+# Homepage news. Newest first. `text` supports inline HTML (links, <b>).
+- date: "2026.06"
+  text: 'Our paper on <b>ReconST</b>, optimal gene panel selection for targeted spatial transcriptomics, is published in <i>Nucleic Acids Research</i>! <a href="https://github.com/haoranlustat/ReconST">[code]</a>'
+- date: "2026.05"
+  text: '<b>Knowledge Cascade</b> is published in the <i>Journal of Machine Learning Research</i>.'
+- date: "2026.05"
+  text: 'Introducing <b>NeuroMAS</b>: multi-agent systems as neural networks with joint reinforcement learning, a Paper Award Honorable Mention at STAI-X 2026! <a href="https://arxiv.org/abs/2605.16757">[arXiv]</a> <a href="https://github.com/haoranlustat/NeuroMAS">[code]</a>'

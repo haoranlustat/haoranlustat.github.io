@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% include seo.html %}
+  <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head>
+<body>
+<header class="nav">
+  <div class="nav__inner">
+    <a class="nav__brand" href="#top">{{ site.author.name }}</a>
+    <nav class="nav__links">
+      <a href="#news">News</a>
+      <a href="#research">Research</a>
+      <a href="#awards">Awards</a>
+      <a href="{{ '/publication/' | relative_url }}">Publications</a>
+      <a href="{{ '/presentations/' | relative_url }}">Talks</a>
+      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+      <button id="theme" class="nav__theme" aria-label="Toggle dark mode">◐</button>
+    </nav>
+  </div>
+</header>
+
+<main id="top" class="wrap">
+  <section class="hero">
+    <div class="hero__text">
+      <h1>{{ site.author.name }}</h1>
+      <p class="hero__role">// {{ page.role }}</p>
+      <div class="hero__bio">{{ content }}</div>
+      <div class="chips">
+        {% for i in page.interests %}<span class="chip">{{ i }}</span>{% endfor %}
+      </div>
+      <div class="links">
+        {% if site.author.googlescholar %}<a class="btn" href="{{ site.author.googlescholar }}">Scholar</a>{% endif %}
+        <a class="btn" href="https://github.com/haoranlustat">GitHub</a>
+        {% if site.author.email %}<a class="btn" href="mailto:{{ site.author.email }}">Email</a>{% endif %}
+      </div>
+    </div>
+    <img class="hero__photo" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+  </section>
+
+  <section id="news" class="section">
+    <h2><span>//</span> News</h2>
+    <ul class="news">
+      {% for n in site.data.news %}
+      <li><span class="news__date">{{ n.date }}</span><span class="news__text">{{ n.text }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section id="research" class="section">
+    <h2><span>//</span> Research</h2>
+    {% for p in site.data.research %}
+    <article class="card">
+      <div class="card__media">
+        {% assign m = p.media | downcase %}
+        {% if m contains ".mp4" or m contains ".webm" %}
+        <video src="{{ '/images/research/' | append: p.media | relative_url }}" autoplay muted loop playsinline></video>
+        {% else %}
+        <img class="zoomable" src="{{ '/images/research/' | append: p.media | relative_url }}" alt="{{ p.title | escape }}" loading="lazy">
+        {% endif %}
+      </div>
+      <div class="card__body">
+        <h3>{{ p.title }}</h3>
+        <p class="card__authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% if p.summary %}<p class="card__summary">{{ p.summary }}</p>{% endif %}
+        <div class="card__meta">
+          <span class="tag">{{ p.venue }}</span>
+          {% for l in p.links %}<a class="tag tag--link" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+        </div>
+      </div>
+    </article>
+    {% endfor %}
+    <p class="more"><a href="{{ '/publication/' | relative_url }}">All publications →</a></p>
+  </section>
+
+  <section id="awards" class="section">
+    <h2><span>//</span> Awards</h2>
+    <ul class="awards">
+      {% for a in site.data.awards %}
+      <li><span class="news__date">{{ a.year }}</span><span>{{ a.text }}</span></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <footer class="foot">© {{ site.time | date: "%Y" }} {{ site.author.name }}</footer>
+</main>
+
+<div id="lightbox" class="lightbox" hidden><img alt=""></div>
+<script src="{{ '/assets/js/home.js' | relative_url }}"></script>
+</body>
+</html>

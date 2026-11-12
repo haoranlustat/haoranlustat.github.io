@@ -1,30 +1,17 @@
 ---
+layout: home
 permalink: /
 title: ""
-author_profile: true
-redirect_from: 
+role: "Postdoctoral Fellow · Harvard University"
+interests:
+  - "Generative AI & LLM Agents"
+  - "Causal Inference & Nonparametrics"
+  - "Bioinformatics & Spatial Transcriptomics"
+  - "AI for Physical Sciences"
+  - "Quantum Computing"
+redirect_from:
   - /about/
   - /about.html
 ---
 
-About Me
-======
 My name is Haoran Lu, and I am a Postdoctoral Fellow in the Department of Statistics at Harvard University, working with Professor [Samuel Kou](https://statistics.fas.harvard.edu/people/samuel-kou). I received my PhD in Statistics from the University of Georgia, where I worked with Professors [Ping Ma](https://bdalpingio.github.io/) and [Wenxuan Zhong](https://zhonglabuga.github.io/). I received my Master's degree in Statistics from the University of Wisconsin-Madison and my Bachelor's degree in Statistics from Nankai University. My research interests include causal inference, large language models, generative models, nonparametric statistics and bioinformatics.
-
-Research Interests
-======
-
-- Generative AI, Large Language Models, and Agent Systems
-- Causal Inference, Nonparametrics, and Network Models
-- Bioinformatics, Spatial Transcriptomics, Multi-omics, and Genomics
-- AI for Physical Sciences and Signal Processing
-- Quantum Computing
-
-{% include video-row.html %}
-
-Research
-======
-
-{% include research-cards.html %}
-
-For the full list, see [Publications](/publication/).
