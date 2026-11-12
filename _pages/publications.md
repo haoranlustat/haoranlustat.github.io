@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publication/
 redirect_from:
   - /resume
+  - /publications/
 ---
 
 You can also find my latest articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=CvNah7sAAAAJ).

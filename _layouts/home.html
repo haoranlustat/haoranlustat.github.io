@@ -21,7 +21,7 @@
         {% if site.author.email %}<a class="btn" href="mailto:{{ site.author.email }}">Email</a>{% endif %}
       </div>
     </div>
-    <img class="hero__photo" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    <img class="hero__photo" width="220" height="240" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
   </section>
 
   <section id="news" class="section">
@@ -47,10 +47,11 @@
       </div>
       <div class="card__body">
         <h3>{{ p.title }}</h3>
-        <p class="card__authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <p class="card__authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}{% if p.note %} <span class="card__note">({{ p.note }})</span>{% endif %}</p>
         {% if p.summary %}<p class="card__summary">{{ p.summary }}</p>{% endif %}
         <div class="card__meta">
           <span class="tag">{{ p.venue }}</span>
+          {% if p.award %}<span class="tag tag--award">{{ p.award }}</span>{% endif %}
           {% for l in p.links %}<a class="tag tag--link" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
         </div>
       </div>

@@ -5,9 +5,9 @@
       <a href="{{ '/' | relative_url }}#news">News</a>
       <a href="{{ '/' | relative_url }}#research">Research</a>
       <a href="{{ '/' | relative_url }}#awards">Awards</a>
-      <a href="{{ '/publication/' | relative_url }}">Publications</a>
-      <a href="{{ '/presentations/' | relative_url }}">Talks</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+      <a href="{{ '/publication/' | relative_url }}"{% if page.url == '/publication/' %} class="is-current" aria-current="page"{% endif %}>Publications</a>
+      <a href="{{ '/presentations/' | relative_url }}"{% if page.url == '/presentations/' %} class="is-current" aria-current="page"{% endif %}>Talks</a>
+      <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} class="is-current" aria-current="page"{% endif %}>Teaching</a>
       <button id="theme" class="nav__theme" aria-label="Toggle dark mode">◐</button>
     </nav>
   </div>

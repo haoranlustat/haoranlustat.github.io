@@ -52,8 +52,15 @@ a:hover{text-decoration:underline}
   .hero__photo{width:160px}
   .hero h1{font-size:36px}
   .card{flex-direction:column}.card__media{flex-basis:auto;width:100%}
-  .nav__links{gap:12px;font-size:12.5px}
-  .nav__links a:nth-child(n+4){display:none}
+  .nav__inner{flex-direction:column;align-items:stretch;gap:8px;padding:12px 20px 10px}
+  .nav__links{gap:16px;font-size:13px;overflow-x:auto;white-space:nowrap;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .nav__links::-webkit-scrollbar{display:none}
+  .nav__inner{position:relative}
+  .nav__theme{position:absolute;top:8px;right:20px}
+  .nav__links{gap:14px;font-size:12.5px;justify-content:space-between}
+  html{scroll-padding-top:104px}
+  .wrap{padding:0 20px}
+  .news li,.awards li{gap:14px}
 }
 
 .subpage{padding:48px 0 24px}
@@ -65,3 +72,12 @@ a:hover{text-decoration:underline}
 .prose li{padding:9px 0;border-bottom:1px dashed var(--border)}
 .prose li:last-child{border-bottom:none}
 .prose a{word-break:break-word}
+
+.nav__links a.is-current{color:var(--text);font-weight:600}
+.card__note{font-size:12.5px;white-space:nowrap}
+.card__authors b,.card__authors strong{color:var(--text);font-weight:600}
+.tag--award{background:color-mix(in srgb,#d4a017 16%,transparent);border-color:color-mix(in srgb,#d4a017 45%,transparent);color:color-mix(in srgb,#8a6500 70%,var(--text))}
+.hero__photo{height:auto}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+[data-theme=dark] .card__media img{border-color:transparent}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card{transition:none}.card:hover{transform:none}}
