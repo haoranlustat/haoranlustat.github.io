@@ -3,36 +3,36 @@
 # links: label + url. Replace the placeholder media with your own figure / gif / video.
 - title: "NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning"
   authors: '<b>Haoran Lu</b>, Luyang Fang, Wenxuan Zhong, Ping Ma'
-  venue: "STAI-X 2026"
+  venue: "The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration, 2026"
   award: "Paper Award Honorable Mention"
   media: "neuromas.png"
   summary: "Views a multi-agent LLM system as a neural network and trains it end-to-end with joint RL."
   links:
     - { label: "arXiv", url: "https://arxiv.org/abs/2605.16757" }
-    - { label: "code", url: "https://github.com/haoranlustat/NeuroMAS" }
+    - { label: "Code", url: "https://github.com/haoranlustat/NeuroMAS" }
 
 - title: "Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments"
   authors: '<b>Haoran Lu</b>, Luyang Fang, Orlando Zeng, Wenxuan Zhong, Guo-Cheng Yuan, Ping Ma'
-  venue: "Nucleic Acids Research 2026"
+  venue: "Nucleic Acids Research, 2026"
   media: "gene-panel.png"
   summary: "A principled framework for choosing compact gene panels that preserve spatial transcriptomics signal."
   links:
-    - { label: "paper", url: "https://academic.oup.com/nar/article/54/11/gkag621/8709438" }
-    - { label: "code", url: "https://github.com/haoranlustat/ReconST" }
+    - { label: "Paper", url: "https://academic.oup.com/nar/article/54/11/gkag621/8709438" }
+    - { label: "Code", url: "https://github.com/haoranlustat/ReconST" }
 
 - title: "Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation"
   authors: 'Luyang Fang\*, <b>Haoran Lu</b>\*, Yongkai Chen, Wenxuan Zhong, Ping Ma'
-  note: "* equal contribution"
-  venue: "JMLR 2026"
+  note: "* joint first authors"
+  venue: "Journal of Machine Learning Research, 2026"
   media: "knowledge-cascade.png"
   summary: "Distills knowledge from small to large models for nonparametric functional estimation."
   links:
-    - { label: "paper", url: "http://jmlr.org/papers/v27/23-0359.html" }
+    - { label: "Paper", url: "http://jmlr.org/papers/v27/23-0359.html" }
 
 - title: "Bisection Grover's Search Algorithm and Its Application in Analyzing CITE-seq Data"
   authors: 'Ping Ma, Yongkai Chen, <b>Haoran Lu</b>, Wenxuan Zhong'
-  venue: "JASA 2024"
+  venue: "Journal of the American Statistical Association, 2024"
   media: "grover.png"
   summary: "A quantum search algorithm adapted to large-scale CITE-seq analysis."
   links:
-    - { label: "paper", url: "https://app.box.com/s/ok6j8dh33wwa5xo7kthkkultd08jlqln" }
+    - { label: "Paper", url: "https://app.box.com/s/ok6j8dh33wwa5xo7kthkkultd08jlqln" }

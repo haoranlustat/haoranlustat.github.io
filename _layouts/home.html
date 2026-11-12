@@ -10,22 +10,26 @@
   <section class="hero">
     <div class="hero__text">
       <h1>{{ site.author.name }}</h1>
-      <p class="hero__role">// {{ page.role }}</p>
+      <p class="hero__role">{{ page.role }}</p>
       <div class="hero__bio">{{ content }}</div>
-      <div class="chips">
-        {% for i in page.interests %}<span class="chip">{{ i }}</span>{% endfor %}
-      </div>
-      <div class="links">
-        {% if site.author.googlescholar %}<a class="btn" href="{{ site.author.googlescholar }}">Scholar</a>{% endif %}
-        <a class="btn" href="https://github.com/haoranlustat">GitHub</a>
-        {% if site.author.email %}<a class="btn" href="mailto:{{ site.author.email }}">Email</a>{% endif %}
-      </div>
+      <p class="links">
+        {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}
+        <a href="https://github.com/haoranlustat">GitHub</a>
+        {% if site.author.email %}<a href="mailto:{{ site.author.email }}">Email</a>{% endif %}
+      </p>
     </div>
     <img class="hero__photo" width="220" height="240" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
   </section>
 
+  <section id="interests" class="section">
+    <h2>Research Interests</h2>
+    <ul class="interests">
+      {% for i in page.interests %}<li>{{ i }}</li>{% endfor %}
+    </ul>
+  </section>
+
   <section id="news" class="section">
-    <h2><span>//</span> News</h2>
+    <h2>News</h2>
     <ul class="news">
       {% for n in site.data.news %}
       <li><span class="news__date">{{ n.date }}</span><span class="news__text">{{ n.text }}</span></li>
@@ -34,7 +38,7 @@
   </section>
 
   <section id="research" class="section">
-    <h2><span>//</span> Research</h2>
+    <h2>Research</h2>
     {% for p in site.data.research %}
     <article class="card">
       <div class="card__media">
@@ -49,11 +53,8 @@
         <h3>{{ p.title }}</h3>
         <p class="card__authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}{% if p.note %} <span class="card__note">({{ p.note }})</span>{% endif %}</p>
         {% if p.summary %}<p class="card__summary">{{ p.summary }}</p>{% endif %}
-        <div class="card__meta">
-          <span class="tag">{{ p.venue }}</span>
-          {% if p.award %}<span class="tag tag--award">{{ p.award }}</span>{% endif %}
-          {% for l in p.links %}<a class="tag tag--link" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
-        </div>
+        <p class="card__venue">{{ p.venue }}{% if p.award %} <span class="card__award">({{ p.award }})</span>{% endif %}</p>
+        <p class="card__links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</p>
       </div>
     </article>
     {% endfor %}
@@ -61,7 +62,7 @@
   </section>
 
   <section id="awards" class="section">
-    <h2><span>//</span> Awards</h2>
+    <h2>Awards</h2>
     <ul class="awards">
       {% for a in site.data.awards %}
       <li><span class="news__date">{{ a.year }}</span><span>{{ a.text }}</span></li>
